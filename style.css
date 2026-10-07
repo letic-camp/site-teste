@@ -108,7 +108,7 @@ button,input {
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: url("hero.webp") center / cover;
+    background: url("hero.jpg") center / cover;
     color: rgb(92, 83, 83);
 }
 
